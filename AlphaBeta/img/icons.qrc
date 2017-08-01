@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>bg.png</file>
+		<file>mainIcon.ico</file>
+		<file>myFormula.png</file>
+    </qresource>
+</RCC>
